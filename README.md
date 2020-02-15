@@ -1,7 +1,7 @@
 # MASM
 Assembly Programming
 
-Environment : Visual Studio 2017 x86 MASM(32bit 마이크로소프트 매크로 어셈블러)
+Environment : Visual Studio 2017 x86 MASM
 Link Library : Irvine32.lib
 Reference book : Assembly Language for x86 Processors SEVENTH EDITION
 
